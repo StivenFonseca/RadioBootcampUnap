@@ -66,3 +66,14 @@ Si tienes alguna pregunta, sugerencia o problema relacionado con la aplicación 
 [Patrón MVP en la aplicación de Radio Bootcamp UNAP](https://bit.ly/43aItsY)
 
 ![pantallaappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/Home-Dark.png)
+
+![pantallblancaaappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/Home-Light-1.png)
+
+![pantalplaylistappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/Playlists.png)
+
+
+
+
+
+
+
