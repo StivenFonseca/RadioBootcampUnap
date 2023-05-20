@@ -65,4 +65,11 @@ Si tienes alguna pregunta, sugerencia o problema relacionado con la aplicación 
 
 [Patrón MVP en la aplicación de Radio Bootcamp UNAP](https://bit.ly/43aItsY)
 
+![PantallaBlancaRadioBootCamp](https://drive.google.com/file/d/1rFdOdmRkE2sVpyJ_Y72V2bNRWwEkutfG/view?usp=sharing)
+
+![PantallaBlackRadioBootCamp](https://drive.google.com/file/d/1ve4HyS62Gn586dH8LFftbXMe2NEoDHcA/view?usp=share_link)
+
+![PantallaplaylistRadioBootCamp](https://drive.google.com/file/d/1LhYVrLRgR2pVbJ6b11Ty9ChsjIb7Yuy9/view?usp=share_link)
+
+![PantallaplaylistRadioBootCamp](https://drive.google.com/file/d/1OCDj79Zu3BXN_3spNPcBs_gBuDxwvj0l/view?usp=share_link)
 
