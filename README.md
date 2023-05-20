@@ -30,8 +30,6 @@ Instala el archivo APK en tu dispositivo Android.
 Abre la aplicación y disfruta de la experiencia de RadioBootcamp UNAP.
 
 
-
-
 Tecnologías utilizadas:
 Kotlin: Lenguaje de programación utilizado para el desarrollo de la aplicación.
 Android Studio: Entorno de desarrollo integrado (IDE) utilizado para construir la aplicación.
@@ -58,3 +56,5 @@ Contacto:
 Si tienes alguna pregunta, sugerencia o problema relacionado con la aplicación RadioBootcamp, no dudes en ponerte en contacto con nosotros a través de la siguiente dirección de correo electrónico: Stiven.jfonseca@gmail.com.
 
 ¡Esperamos que disfrutes de RadioBootcamp UNAP y de toda la programación que tenemos para ofrecerte!
+
+
