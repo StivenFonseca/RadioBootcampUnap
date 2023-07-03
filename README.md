@@ -65,11 +65,16 @@ Si tienes alguna pregunta, sugerencia o problema relacionado con la aplicación 
 
 [Patrón MVP en la aplicación de Radio Bootcamp UNAP](https://bit.ly/43aItsY)
 
-![pantallaappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/Home-Dark.png)
+![pantallSplashaappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/SplashInicio.png)
 
-![pantallblancaaappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/Home-Light-1.png)
+![pantallainterfasaappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/interfasRadio.png)
 
-![pantalplaylistappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/Playlists.png)
+![pantalplaylistappradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/PlayRadio.png)
+
+![pantalmenuradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/MenuRadio.png)
+
+![pantalmenuexitradiounab](https://github.com/StivenFonseca/RadioBootcampUnap/blob/master/MenuExit.png)
+
 
 ¡Las contribuciones a Radio UNAB Live son bienvenidas! Si deseas colaborar en el desarrollo de la aplicación, sigue estos pasos:
 
@@ -79,10 +84,3 @@ Realiza los cambios necesarios y commitea tus modificaciones (git commit -am 'Ag
 Realiza un push a la rama (git push origin feature/nueva-funcionalidad).
 Abre una pull request en este repositorio y describe tus cambios en detalle.
 Programas de Radio
-
-
-
-
-
-
-
